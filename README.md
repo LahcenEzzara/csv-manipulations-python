@@ -117,6 +117,6 @@ This project is licensed under the MIT License.
 
 
 
-© 2022 **[Lahcen Ezzara](https://lahcenezzara.github.io)**. All rights reserved.
+© 2024 **[Lahcen Ezzara](https://lahcenezzara.github.io)**. All rights reserved.
 
 This project is licensed under the MIT License.
